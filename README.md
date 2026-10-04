@@ -1,4 +1,5 @@
 # Splat Viewer
+<img width="956" height="476" alt="image" src="https://github.com/user-attachments/assets/e9af6b58-fff1-4dae-92e4-936fa9676a09" />
 
 A standalone infinite 3D grid viewer: a dark studio backdrop and an adaptive, analytic grid. Every line stays a crisp
 hairline at any distance or angle, and finer cells fade in as you get closer. Live sliders let you tune the look.
